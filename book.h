@@ -22,7 +22,6 @@ public:
 private:
 
   string title;
-
 };
 
 #endif /* BOOK_H_ */
